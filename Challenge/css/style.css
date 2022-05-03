@@ -96,15 +96,6 @@ p {
     color: #ffffff;
 }
 
-/*.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}*/
 /*--Group classes with same declarations*/
 .benefit-lead h3,
 .benefit-brand h3,
@@ -113,33 +104,6 @@ p {
     text-align: center;
 }
 
-/*.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}*/
-
-/*.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}*/
 /*--Group classes with same declarations*/
 .benefit-lead img,
 .benefit-brand img,
@@ -161,23 +125,6 @@ p {
     color: #ffffff;
 }
 
-/*.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}*/
 /*--Group classes with same declarations*/
 .search-engine-optimization img,
 .online-reputation-management img,
@@ -185,13 +132,6 @@ p {
     max-height: 200px;
 }
 
-/*.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}*/
 /*--Group classes with same declarations*/
 .search-engine-optimization h2,
 .online-reputation-management h2,
@@ -199,16 +139,6 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-/*.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}*/
 
 .footer {
     padding: 30px;
